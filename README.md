@@ -1,4 +1,4 @@
-# ☕ QR Code Generator
+#   QR Code Generator
 A simple Python program for generating QR Code.
 
 ------------------------------------------------------------------------------------------------------------------------
