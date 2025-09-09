@@ -16,5 +16,5 @@ python main.py
 
 ### 3. Follow the instructions given by the program
 
-* Enter the URl
+* Enter the URL
 * Enter the filename (automatically saved as jpg)
