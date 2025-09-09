@@ -8,7 +8,7 @@ A simple Python program for generating QR Code.
 
 ### 1. Clone the repository
 
-git clone https://github.com/lcgobbo/Coffee-Ordering-App.git
+git clone https://github.com/lcgobbo/QR-Code-Generator.git
 
 ### 2. Run the program
 
