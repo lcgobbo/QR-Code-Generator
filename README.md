@@ -12,7 +12,7 @@ git clone https://github.com/lcgobbo/QR-Code-Generator.git
 
 ### 2. Run the program
 
-python main.py
+python qr_code_generator.py
 
 ### 3. Follow the instructions given by the program
 
