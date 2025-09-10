@@ -24,4 +24,4 @@ Deactivate the venv, then install the requirements with the following command:
 ### 4. Follow the instructions given by the program
 
 * Enter the URL
-* Enter the filename (automatically saved as jpg)
+* Enter the filename (automatically saved as jpg in a separate folder)
