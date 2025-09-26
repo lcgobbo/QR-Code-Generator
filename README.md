@@ -10,7 +10,7 @@ A simple Python program for generating QR Code.
 
 * git clone https://github.com/lcgobbo/QR-Code-Generator.git
 
-### 2. Intall the requirements
+### 2. Install the requirements
 
 Deactivate the venv, then install the requirements with the following command:
 
